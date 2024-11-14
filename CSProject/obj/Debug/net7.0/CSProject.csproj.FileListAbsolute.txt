@@ -1,0 +1,15 @@
+/Users/ismailsimsek/Projects/CSProject/obj/Debug/net7.0/CSProject.csproj.AssemblyReference.cache
+/Users/ismailsimsek/Projects/CSProject/obj/Debug/net7.0/CSProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ismailsimsek/Projects/CSProject/obj/Debug/net7.0/CSProject.AssemblyInfoInputs.cache
+/Users/ismailsimsek/Projects/CSProject/obj/Debug/net7.0/CSProject.AssemblyInfo.cs
+/Users/ismailsimsek/Projects/CSProject/obj/Debug/net7.0/CSProject.csproj.CoreCompileInputs.cache
+/Users/ismailsimsek/Projects/CSProject/bin/Debug/net7.0/CSProject
+/Users/ismailsimsek/Projects/CSProject/bin/Debug/net7.0/CSProject.deps.json
+/Users/ismailsimsek/Projects/CSProject/bin/Debug/net7.0/CSProject.runtimeconfig.json
+/Users/ismailsimsek/Projects/CSProject/bin/Debug/net7.0/CSProject.dll
+/Users/ismailsimsek/Projects/CSProject/bin/Debug/net7.0/CSProject.pdb
+/Users/ismailsimsek/Projects/CSProject/obj/Debug/net7.0/CSProject.dll
+/Users/ismailsimsek/Projects/CSProject/obj/Debug/net7.0/refint/CSProject.dll
+/Users/ismailsimsek/Projects/CSProject/obj/Debug/net7.0/CSProject.pdb
+/Users/ismailsimsek/Projects/CSProject/obj/Debug/net7.0/CSProject.genruntimeconfig.cache
+/Users/ismailsimsek/Projects/CSProject/obj/Debug/net7.0/ref/CSProject.dll
